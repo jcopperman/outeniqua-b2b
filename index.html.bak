@@ -1,19 +1,20 @@
+<!-- filepath: /var/www/outeniqua-b2b/index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Outeniqua Studios | Your Silent QA & DevOps Partner</title>
+  <title>Outeniqua Studios | Your Silent QA, DevOps, & Delivery Partner</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
     <img src="logos/A_2D_vector_graphic_logo_features_three_black_hexa.png" alt="Outeniqua Studios Logo" class="logo" />
     <h1>Outeniqua Studios</h1>
-    <h2>Your Silent QA & DevOps Partner</h2>
+    <h2>Your Silent QA, DevOps, & Delivery Partner</h2>
     <p>
       We plug in quietly and get the work done. Embedded QA. Automation that sticks.  
-      CI/CD pipelines that don't need constant hand-holding.
+      CI/CD pipelines that don't need babysitting. Delivery management that keeps projects on track — without the theatrics.
     </p>
     <a class="cta" href="mailto:jonathan@outeniquastudios.com">Let's Talk →</a>
   </header>
@@ -72,7 +73,7 @@
       We plug into your workflow and ship — under your brand, without the noise.
     </p>
     <p>
-      
+      📧 <a href="mailto:jonathan@outeniquastudios.com">jonathan@outeniquastudios.com</a><br/>
       🔗 <a href="https://www.linkedin.com/company/outeniqua-studios/" target="_blank">LinkedIn</a>
     </p>
   </section>
